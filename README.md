@@ -103,13 +103,4 @@ BankManagementSystem/
 
 ---
 
-## Team
-
-| Member | Role |
-|--------|------|
-| Mahrukh Mobin | GUI design, core logic, GPS/location features |
-| Iffa Zainab | Co-developer, system design and implementation |
-
----
-
 *Built by [Mahrukh Mobin](https://github.com/mahrukhmobin) — Computer Engineering Student @ UET Lahore*
