@@ -199,8 +199,8 @@ public class RemoveClientDialog extends JDialog {
 
     private void sendEmail(String to, String accNo, String name) {
 
-        final String from = "mibank.app@gmail.com";
-        final String password = "qkub jekj yash vgia";
+        final String from = "your email";
+        final String password = "your password";
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
