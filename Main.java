@@ -208,8 +208,8 @@ public class Main {
 
         Bank b=new Bank("UET Bank");
 
-        Person p1=new Person("Iffa","12345-678910","03214402388");
-        Person p2=new Person("Maryam","12345-109876","03214041439");
+        Person p1=new Person("Iffa","12345-678910","03210000000");
+        Person p2=new Person("Maryam","12345-109876","03210000000");
 
         Client c1=b.addClient(p1);
         Client c2=b.addClient(p2);
